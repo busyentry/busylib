@@ -13,7 +13,12 @@
     "Small Business",
     "Typescript",
     "busyentry.com",
-    "busyentry"
+    "busyentry",
+    "Order Management",
+    "Inventory Management",
+    "Customer Management",
+    "Client Management",
+    "Shipping Management"
   ],
   "license": "MIT",
   "repository": {
